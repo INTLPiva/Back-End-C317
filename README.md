@@ -56,7 +56,7 @@ Para rodar os testes feitos no projeto, utilize o seguinte comando:
         </sub>
       </a>
     </td>
-   td align="center">
+   <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/49520647?v=4" width="100px;" alt="Foto do Erich Pfaffenbach no GitHub"/><br>
         <sub>
