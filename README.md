@@ -34,15 +34,15 @@ Para rodar os testes feitos no projeto, utilize o seguinte comando:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/49520647?v=4" width="100px;" alt="Foto do Erich Pfaffenbach no GitHub"/><br>
+        <img src="https://cdn-icons-png.flaticon.com/512/17/17004.png" width="100px;" alt="Foto do Daniel Coelho no GitHub"/><br>
         <sub>
-          <b>Daniel Coelhoh</b>
+          <b>Daniel Coelho</b>
         </sub>
       </a>
     </td>
    <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/49520647?v=4" width="100px;" alt="Foto do Erich Pfaffenbach no GitHub"/><br>
+        <img src="https://cdn-icons-png.flaticon.com/512/17/17004.png" width="100px;" alt="Foto do Diogo Antonio no GitHub"/><br>
         <sub>
           <b>Diogo Antonio</b>
         </sub>
@@ -58,7 +58,7 @@ Para rodar os testes feitos no projeto, utilize o seguinte comando:
     </td>
    <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/49520647?v=4" width="100px;" alt="Foto do Erich Pfaffenbach no GitHub"/><br>
+        <img src="https://cdn-icons-png.flaticon.com/512/17/17004.png" width="100px;" alt="Foto do Lucas Piva no GitHub"/><br>
         <sub>
           <b>Lucas Piva</b>
         </sub>
