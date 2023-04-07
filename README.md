@@ -45,7 +45,7 @@ Para rodar os testes feitos no projeto, utilize o seguinte comando:
 ## Contato
 Contato | Endereço
 ------------ | -------------
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | erich.silveira@ges.inatel.br
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | danielcoelho@gec.inatel.br
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | diogoantonio@ges.inatel.br
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | erich.silveira@ges.inatel.br
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | lucas.piva@gec.inatel.br
